@@ -43,13 +43,13 @@ nav {
     min-height: 100vh;
 }
 
+.textm {
+    margin-top: 44vh;
+}
+
 .container {
     min-height: 100vh;
     border: 0px solid #fff;
-}
-
-.textm {
-    margin-top: 44vh;
 }
 
 h1 {
@@ -136,6 +136,8 @@ p {
     justify-content: space-around;
 }
 
+.navbar .navmenu li {}
+
 .navbar .navmenu a {
     display: block;
     padding: 1em 1em;
@@ -174,9 +176,9 @@ p {
     margin-top: 200px;
 }
 
-/* .icons {
+.icons {
     margin-top: 75px;
-} */
+} 
 
 .contacts .container {
     display: grid;
